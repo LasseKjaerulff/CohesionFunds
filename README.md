@@ -6,7 +6,7 @@ Repositoriet indeholder materialer til replikation af resultater i eksamensopgav
 
 `tgs00006.tsv:` Data om BNP på NUTS-2 niveau i EU
 
-`ESS04_2008.dta:` ESS multilevel 2008 med NUTS-dsfg id
+`ESS04_2008.dta:` ESS multilevel 2008 med NUTS-2 id
 
 `ESS04_2010.dta:` ESS multilevel 2010 med NUTS-2 id
 
