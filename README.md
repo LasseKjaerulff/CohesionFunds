@@ -2,7 +2,7 @@
 Repositoriet indeholder materialer til replikation af resultater i eksamensopgaven i faget "Videregående Kvantitative Metoder" ved Institut for Statskundskab, Københavns Universitet.
 
 ### Indhold i repository
-`Historic_EU_payments_-_regionalised_and_modelled.csv:` Data om midler fra EU's strukturfonde. Kan også findes her:
+`Historic_EU_payments_-_regionalised_and_modelled.csv:` Data om midler fra EU's strukturfonde. 
 
 `tgs00006.tsv:` Data om BNP på NUTS-2 niveau i EU
 
